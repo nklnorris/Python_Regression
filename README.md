@@ -19,7 +19,9 @@ Both exercises use WHO life expectancy data to predict life expectancy. Each exe
 * Use model to predict life expectancy of test data set
 * Evalate the algorithm's fit
 
-The linear regression predicts adult life expectancy based on infant mortality whereas the multiple linear regression predicts adult life expectancy from numerous independent variables. 
+The linear regression predicts adult life expectancy based on the country's expenditure on healthcare whereas the multiple linear regression predicts adult life expectancy from numerous independent variables. 
+
+#### (Multiple Linear Regression will be uploaded soon) 
 
 ### Author
 
