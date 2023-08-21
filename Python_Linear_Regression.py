@@ -16,7 +16,7 @@ from sklearn.linear_model import LogisticRegression
 from sklearn import metrics
 
 # Read the CSV file
-life = pd.read_csv(r'C:\Users\nklpu\OneDrive\Desktop\Data Vis\ML Exercises\life_expectancy_data.csv')
+life = pd.read_csv(r'DATA.csv')
 # Prevew laded data
 life.head(n=10)
 list(life.columns)
